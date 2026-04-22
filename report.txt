@@ -1,0 +1,7 @@
+STUDENT REPORT
+Students with marks less than 12:
+Hashir bin Asad
+Waleed Ahmed 
+
+Invalid Email Addresses:
+Bilal A Awan
